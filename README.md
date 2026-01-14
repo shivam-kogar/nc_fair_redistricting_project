@@ -2,7 +2,7 @@
 
 In this project I explore algorithmic approaches to generating **contiguous electoral districts** from county-level data, motivated by questions around gerrymandering, spatial constraints, and emergent political structure. The code implements a greedy algorithm on a county adjacency graph, with the goal of constructing districts that are contiguous and approximately population-balanced.
 
-This repo represents an **exploratory research project**, not a tool that is ready for practical use -- see 'Limitations' for more.
+This repo represents an **exploratory research project**, not a tool that is ready for practical use -- see 'Known Limitations' for more.
 
 ---
 
